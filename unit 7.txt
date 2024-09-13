@@ -1,0 +1,24 @@
+﻿True or false
+
+1.false 
+2.false
+3.true
+4.true
+ Short Answer Questions
+
+1.what is a requirement?
+   - A requirement is a specification of what a system should do or a condition it must satisfy. It defines the needs and constraints of stakeholders that the system must fulfill.
+
+2. Why is writing use cases iterative?
+   - Writing use cases is iterative because they evolve as more details are discovered and clarified. The initial use cases provide a starting point, but as development progresses, more precise scenarios and interactions are added or refined.
+
+3.explain actor, goal, and scenario?
+   *actor-  an entity that interacts with the system, which could be a user, another system, or a hardware device.
+   *Goal-the objective or outcome that an actor aims to achieve through their interaction with the system.
+   *Scenario- A sequence of actions or events that occur during the interaction between an actor and the system to achieve a specific goal.
+
+4.what are the classifications of objects discovered via textual analysis?
+   - Objects discovered via textual analysis are typically classified into three categories: 
+     *Boundary Objects: Interfaces that handle interactions between the system and actors.
+     *Entity Objects: objects that represent data or domain concepts within the system.
+     *Control Objects  Objects that manage the flow of the system’s operations and control the interaction between boundary and entity objects.
